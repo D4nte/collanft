@@ -1,2 +1,3 @@
 # collanft
-Collaborative NFTs over Waku
+
+Collaborative NFTs over Waku.
